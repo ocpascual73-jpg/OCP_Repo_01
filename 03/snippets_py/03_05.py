@@ -1,6 +1,6 @@
 ## 3.5 if Selection Statement
 
-grade = 85
+grade = 55
 
 if grade >= 60:
     print('Passed')
@@ -8,11 +8,11 @@ if grade >= 60:
 ### Suite Indentation
 
 if grade >= 60:
-print('Passed')  # statement is not indented properly
+    print('Passed')  # statement is not indented properly
 
 if grade >= 60:
     print('Passed')  # indented 4 spaces
-  print('Good job!')  # incorrectly indented only two spaces
+    print('Good job!')  # incorrectly indented only two spaces
 
 ### if Statement Flowchart
 
