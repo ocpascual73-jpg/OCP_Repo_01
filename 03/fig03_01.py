@@ -4,7 +4,7 @@
 # initialization phase
 total = 0  # sum of grades
 grade_counter = 0
-grades = [90, 70, 80, 60, 83, 90, 57, 79, 82, 94]  # list of 10 grades
+grades = [95, 75, 85, 65, 85, 95, 55, 75, 85, 95]  # list of 10 grades
 
 # processing phase
 for grade in grades:
